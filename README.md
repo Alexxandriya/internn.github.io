@@ -1,7 +1,4 @@
 [website.html](https://github.com/user-attachments/files/23143790/website.html)
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>My Introduction</title>
@@ -38,20 +35,13 @@
                 text-decoration: underline;
             }
         </style>
-    </head>
-    <body>
-        <div class="card">
             <img src="https://i1.sndcdn.com/avatars-mWxhewUOTQ76uzqE-LpL0UQ-t500x500.jpg" alt="Profile Picture">
             <h1>Hello!1!1!, I'm <span style="color:#7c0092;">Alexandria also known as Intern</span></h1>
             <p>Welcome to my website! i make music, and im learning how to code.</p>
             <p> Im from The Netherlands :D </p>
             <p>‎ ‎ </p>
-            <p>I speak Dutch, English, Danish, Luxembourgish, Indonesian, aaaand a little German :> </p>
-            <div>
-                <a href="https://youtube.com/@afschuwelijk" target="_blank">Youtube</a> |
+            I speak Dutch, English, Danish, Luxembourgish, Indonesian, aaaand a little German :>
+                        <a href="https://youtube.com/@afschuwelijk" target="_blank">Youtube</a> |
                 <a href="https://soundcloud.com/187intvrn" target="_blank">SoundCloud</a> |
                 <a href="https://open.spotify.com/user/31cgwxt5imwk3ll6jakohe6fpjfa?si=ef90fe38e9734d6a" target="_blank">Spotify</a>
-            </div>
-        </div>
-    </body>
-    </html>
+      
